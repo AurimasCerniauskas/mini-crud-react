@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-crud-react/static/css/main.28c7062d.css",
+    "main.js": "/mini-crud-react/static/js/main.a0c5cb58.js",
+    "index.html": "/mini-crud-react/index.html",
+    "main.28c7062d.css.map": "/mini-crud-react/static/css/main.28c7062d.css.map",
+    "main.a0c5cb58.js.map": "/mini-crud-react/static/js/main.a0c5cb58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c7062d.css",
+    "static/js/main.a0c5cb58.js"
+  ]
+}
